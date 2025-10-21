@@ -27,4 +27,4 @@ scan_with_nmap
 capture_with_tcpdump
 
 
-echo "Результати збережено у файл $OUTPUT_FILE"
+echo "Результати збережено у файл $OUTPUT_FILE" 
